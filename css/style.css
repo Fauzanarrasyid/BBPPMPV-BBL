@@ -293,7 +293,7 @@
   @media(max-width: 480px){
 
    body{
-    width: auto;
+    width: 100%;
    }
 
    .section{
