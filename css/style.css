@@ -292,6 +292,10 @@
 
   @media(max-width: 480px){
 
+   body{
+    width: auto;
+   }
+
    .section{
     display: block;
    }
